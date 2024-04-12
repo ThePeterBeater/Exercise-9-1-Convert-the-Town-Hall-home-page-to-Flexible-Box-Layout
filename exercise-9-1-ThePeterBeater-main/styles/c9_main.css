@@ -84,6 +84,7 @@ header img {
 /* the styles for the main content */
 main {
 	clear: left;
+	order: 1;
 }
 
 /* the styles for the section */
@@ -140,6 +141,7 @@ article img {
 
 /* the styles for the aside */
 aside {
+	order: 2;
 	width: 26.875%;                     /* 215 / 800 x 100 */
 	float: right;
 	padding: 0 0 20px 2.5%;             /* 20 / 800 x 100 */
